@@ -54,3 +54,15 @@ Inicia el servidor de desarrollo de Laravel:
 php artisan serve
 
 El servidor estará disponible en http://localhost:8000
+Usuarios de Prueba
+El sistema viene preconfigurado con dos usuarios de prueba que se crean al ejecutar los seeders:
+ Usuarios
+Usuario 1
+
+Email: user1@example.com
+Contraseña: password
+
+Usuario 2
+
+Email: user2@example.com
+Contraseña: password
